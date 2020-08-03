@@ -1,5 +1,5 @@
 ## Der Aktionär - Aktuelles
-In this project we crawl the webpage https://www.deraktionaer.de/ to send a push notification with Telegram, whenever a new article was posted.
+In this project we crawl the webpage [Der Aktionär](https://www.deraktionaer.de/) to send a push notification with Telegram, whenever a new article was posted.
 
 ## Motivation
 This project is used to gain updated information about the stock market. The webpage does not send automated push notifications whenever a new article was posted and therefore an automated bot should do the job. The journal often informs about trending stocks and allows that way to execute an profitable investment.
