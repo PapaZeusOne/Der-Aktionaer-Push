@@ -10,7 +10,7 @@ This project is used to gain updated information about the stock market. The web
 - [Google Cloud](https://cloud.google.com/)
 
 ## Features
-This project is used as an extention to the current webpage / app of **Der Aktionär**.
+This project is used as an extention to the current webpage / app of [Der Aktionär](https://www.deraktionaer.de/).
 
 ## Installation
 Clone this project and add your TOKEN and CHAT_ID at the marked section. Follow this [tutorial](https://docs.influxdata.com/kapacitor/v1.5/event_handlers/telegram/) to set up your telegram bot.
